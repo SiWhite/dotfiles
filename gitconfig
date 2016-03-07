@@ -1,2 +1,7 @@
 [push]
 	default = matching
+[alias]
+	co = checkout
+	st = status
+	br = branch
+	ci = commit
